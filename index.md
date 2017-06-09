@@ -1,4 +1,4 @@
-themeL jekll-theme-hacker
+theme: jekll-theme-hacker
 title: Welcome to MirellaM17's homepage!
 
 You can use the [editor on GitHub](https://github.com/MirellaM17/MirellaM17.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
