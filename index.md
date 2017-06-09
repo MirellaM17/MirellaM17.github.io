@@ -1,4 +1,4 @@
-title: Welcome to my GitHub Pages!
+## Welcome to MirellaM17 GitHub Page!
 
 You can use the [editor on GitHub](https://github.com/MirellaM17/MirellaM17.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -17,11 +17,14 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- Purple
 
 1. Numbered
 2. List
+3. Three
 
 **Bold** and _Italic_ and `Code` text
+**Mirella* _M_ '17'
 
 [Link](url) and ![Image](src)
 ```
